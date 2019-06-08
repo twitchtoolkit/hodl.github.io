@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -12,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1600,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -66,13 +76,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "toxicfallout",
-		"price": 4200,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -137,7 +152,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -157,12 +172,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -182,7 +197,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 350,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -193,11 +208,6 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "yorkshireterriers",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -261,6 +271,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -302,9 +317,19 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "berescued",
+		"price": 900,
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 66
 }
