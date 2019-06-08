@@ -27,7 +27,7 @@
 	{
 		"abr": "alpaca",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
@@ -45,7 +45,7 @@
 	{
 		"abr": "alphabeaver",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
@@ -99,13 +99,13 @@
 	{
 		"abr": "arcticfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
@@ -249,7 +249,7 @@
 	{
 		"abr": "boomalope",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
@@ -261,7 +261,7 @@
 	{
 		"abr": "boomrat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
@@ -309,7 +309,7 @@
 	{
 		"abr": "capybara",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Capybara"
 	},
 	{
@@ -321,7 +321,7 @@
 	{
 		"abr": "caribou",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
@@ -333,7 +333,7 @@
 	{
 		"abr": "cassowary",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
@@ -345,7 +345,7 @@
 	{
 		"abr": "cat",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cat"
 	},
 	{
@@ -387,7 +387,7 @@
 	{
 		"abr": "chicken",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
@@ -411,7 +411,7 @@
 	{
 		"abr": "chinchilla",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Chinchilla"
 	},
 	{
@@ -447,7 +447,7 @@
 	{
 		"abr": "cobra",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cobra"
 	},
 	{
@@ -483,7 +483,7 @@
 	{
 		"abr": "cougar",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
@@ -495,7 +495,7 @@
 	{
 		"abr": "cow",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Cow"
 	},
 	{
@@ -513,7 +513,7 @@
 	{
 		"abr": "deer",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
@@ -561,7 +561,7 @@
 	{
 		"abr": "dromedary",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Dromedary"
 	},
 	{
@@ -609,7 +609,7 @@
 	{
 		"abr": "elephant",
 		"price": 1000,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elephant"
 	},
 	{
@@ -633,7 +633,7 @@
 	{
 		"abr": "elk",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Elk"
 	},
 	{
@@ -657,7 +657,7 @@
 	{
 		"abr": "emu",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
@@ -675,7 +675,7 @@
 	{
 		"abr": "fennecfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
 	{
@@ -771,7 +771,7 @@
 	{
 		"abr": "gazelle",
 		"price": 250,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Gazelle"
 	},
 	{
@@ -831,7 +831,7 @@
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
@@ -843,7 +843,7 @@
 	{
 		"abr": "hare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
@@ -927,7 +927,7 @@
 	{
 		"abr": "human",
 		"price": 2917,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Human"
 	},
 	{
@@ -945,7 +945,7 @@
 	{
 		"abr": "husky",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
@@ -963,7 +963,7 @@
 	{
 		"abr": "ibex",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
@@ -1005,7 +1005,7 @@
 	{
 		"abr": "iguana",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
@@ -1095,7 +1095,7 @@
 	{
 		"abr": "labradorretriever",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
@@ -1167,7 +1167,7 @@
 	{
 		"abr": "lynx",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
@@ -1221,7 +1221,7 @@
 	{
 		"abr": "megascarab",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
@@ -1233,7 +1233,7 @@
 	{
 		"abr": "megasloth",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
@@ -1251,7 +1251,7 @@
 	{
 		"abr": "megaspider",
 		"price": 833,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
@@ -1281,7 +1281,7 @@
 	{
 		"abr": "monkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
@@ -1299,7 +1299,7 @@
 	{
 		"abr": "muffalo",
 		"price": 500,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
@@ -1359,7 +1359,7 @@
 	{
 		"abr": "ostrich",
 		"price": 417,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Ostrich"
 	},
 	{
@@ -1383,7 +1383,7 @@
 	{
 		"abr": "panther",
 		"price": 667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
@@ -1431,7 +1431,7 @@
 	{
 		"abr": "pig",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Pig"
 	},
 	{
@@ -1479,7 +1479,7 @@
 	{
 		"abr": "polarbear",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
@@ -1575,7 +1575,7 @@
 	{
 		"abr": "raccoon",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Raccoon"
 	},
 	{
@@ -1587,7 +1587,7 @@
 	{
 		"abr": "rat",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
@@ -1611,7 +1611,7 @@
 	{
 		"abr": "redfox",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
@@ -1629,7 +1629,7 @@
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
@@ -1749,7 +1749,7 @@
 	{
 		"abr": "snowhare",
 		"price": 83,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Snowhare"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "spelopede",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
@@ -1773,7 +1773,7 @@
 	{
 		"abr": "squirrel",
 		"price": 58,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
@@ -1875,7 +1875,7 @@
 	{
 		"abr": "thrumbo",
 		"price": 6667,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
@@ -1899,7 +1899,7 @@
 	{
 		"abr": "timberwolf",
 		"price": 583,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
 	{
@@ -1917,7 +1917,7 @@
 	{
 		"abr": "tortoise",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
@@ -1971,7 +1971,7 @@
 	{
 		"abr": "turkey",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
@@ -2031,7 +2031,7 @@
 	{
 		"abr": "warg",
 		"price": 750,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
@@ -2043,7 +2043,7 @@
 	{
 		"abr": "wildboar",
 		"price": 333,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "WildBoar"
 	},
 	{
@@ -2079,7 +2079,7 @@
 	{
 		"abr": "yorkshireterrier",
 		"price": 167,
-		"category": "Uncategorized",
+		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
 	{
