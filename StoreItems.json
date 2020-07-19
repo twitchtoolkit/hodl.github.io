@@ -1238,7 +1238,7 @@
 	},
 	{
 		"abr": "couronne",
-		"price": 322,
+		"price": -10,
 		"category": "Coiffure",
 		"defname": "Apparel_Crown"
 	},
@@ -3920,7 +3920,7 @@
 	},
 	{
 		"abr": "pâtenutritive",
-		"price": 17,
+		"price": 20,
 		"category": "Plats",
 		"defname": "MealNutrientPaste"
 	},
@@ -4010,13 +4010,13 @@
 	},
 	{
 		"abr": "petitecouronne",
-		"price": 215,
+		"price": -10,
 		"category": "Coiffure",
 		"defname": "Apparel_Coronet"
 	},
 	{
 		"abr": "petitesculpture",
-		"price": 275,
+		"price": 375,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -4400,7 +4400,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": -10,
+		"price": 58,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -5198,7 +5198,7 @@
 	},
 	{
 		"abr": "tortue",
-		"price": -10,
+		"price": 333,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -5228,505 +5228,505 @@
 	},
 	{
 		"abr": "bioship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottom"
 	},
 	{
 		"abr": "bioship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottomPointy"
 	},
 	{
 		"abr": "bioship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideLeft"
 	},
 	{
 		"abr": "bioship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideRight"
 	},
 	{
 		"abr": "bioship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTop"
 	},
 	{
 		"abr": "bioship,topleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopLeft"
 	},
 	{
 		"abr": "bioship,topright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopRight"
 	},
 	{
 		"abr": "bioship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingLeft"
 	},
 	{
 		"abr": "bioship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingRight"
 	},
 	{
 		"abr": "hugecapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidBottom"
 	},
 	{
 		"abr": "hugecapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidLeft"
 	},
 	{
 		"abr": "hugecapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidRight"
 	},
 	{
 		"abr": "hugecapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_HugeAsteroidTop"
 	},
 	{
 		"abr": "imperialescortship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottom"
 	},
 	{
 		"abr": "imperialescortship,leftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideLeft"
 	},
 	{
 		"abr": "imperialescortship,rightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideRight"
 	},
 	{
 		"abr": "imperialescortship,roundcore",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRound"
 	},
 	{
 		"abr": "imperialescortship,roundsideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideLeft"
 	},
 	{
 		"abr": "imperialescortship,roundsideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallleftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideLeft"
 	},
 	{
 		"abr": "imperialescortship,smallrightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallwingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingLeft"
 	},
 	{
 		"abr": "imperialescortship,smallwingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingRight"
 	},
 	{
 		"abr": "imperialescortship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTop"
 	},
 	{
 		"abr": "imperialescortship,topalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAlternate"
 	},
 	{
 		"abr": "imperialescortship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopPointy"
 	},
 	{
 		"abr": "imperialescortship,topnarrowantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennasNarrow"
 	},
 	{
 		"abr": "imperialescortship,topwithantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennas"
 	},
 	{
 		"abr": "imperialescortship,widebottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottomAlternate"
 	},
 	{
 		"abr": "imperialescortship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingLeft"
 	},
 	{
 		"abr": "imperialescortship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingRight"
 	},
 	{
 		"abr": "mechanoidship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottom"
 	},
 	{
 		"abr": "mechanoidship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottomLong"
 	},
 	{
 		"abr": "mechanoidship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideLeft"
 	},
 	{
 		"abr": "mechanoidship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideRight"
 	},
 	{
 		"abr": "mechanoidship,tankleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankLeft"
 	},
 	{
 		"abr": "mechanoidship,tankright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankRight"
 	},
 	{
 		"abr": "mechanoidship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipTop"
 	},
 	{
 		"abr": "mechanoidship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingLeft"
 	},
 	{
 		"abr": "mechanoidship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingRight"
 	},
 	{
 		"abr": "mediumcapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigBottom"
 	},
 	{
 		"abr": "mediumcapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigSide"
 	},
 	{
 		"abr": "mediumcapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigReactors"
 	},
 	{
 		"abr": "mediumcapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkBigTop"
 	},
 	{
 		"abr": "pirateship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkBottom"
 	},
 	{
 		"abr": "pirateship,largewingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateLeft"
 	},
 	{
 		"abr": "pirateship,largewingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateRight"
 	},
 	{
 		"abr": "pirateship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideLeft"
 	},
 	{
 		"abr": "pirateship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideRight"
 	},
 	{
 		"abr": "pirateship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTop"
 	},
 	{
 		"abr": "pirateship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTopPointy"
 	},
 	{
 		"abr": "pirateship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingLeft"
 	},
 	{
 		"abr": "pirateship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingRight"
 	},
 	{
 		"abr": "smallcapturedasteroid,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkDown"
 	},
 	{
 		"abr": "smallcapturedasteroid,left",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkLeft"
 	},
 	{
 		"abr": "smallcapturedasteroid,right",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkReactor"
 	},
 	{
 		"abr": "smallcapturedasteroid,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_AsteroidChunkTop"
 	},
 	{
 		"abr": "tradeship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottom"
 	},
 	{
 		"abr": "tradeship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottomAlternate"
 	},
 	{
 		"abr": "tradeship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipLeft"
 	},
 	{
 		"abr": "tradeship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipRight"
 	},
 	{
 		"abr": "tradeship,tanksleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksLeft"
 	},
 	{
 		"abr": "tradeship,tanksright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksRight"
 	},
 	{
 		"abr": "tradeship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTop"
 	},
 	{
 		"abr": "autoclave",
-		"price": 1108,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "Autoclave"
 	},
 	{
 		"abr": "baiededéchargementdelaraffinerie",
-		"price": 49,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "RefineryLoadingBay"
 	},
 	{
 		"abr": "barque",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SPBoats_RowBoat"
 	},
 	{
 		"abr": "batterylv2",
-		"price": 667,
+		"price": -10,
 		"category": "Énergie",
 		"defname": "Battery_II"
 	},
 	{
 		"abr": "biohazardsign",
-		"price": 178,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerCD"
 	},
 	{
 		"abr": "blackbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAK"
 	},
 	{
 		"abr": "blackflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBK"
 	},
 	{
 		"abr": "bolshvevbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAE"
 	},
 	{
 		"abr": "bolshvevflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBE"
 	},
 	{
 		"abr": "bombedenapalm",
-		"price": 383,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "NapalmBomb"
 	},
 	{
 		"abr": "caravelle",
-		"price": 30000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SPBoats_Caravel"
 	},
 	{
 		"abr": "clustercolumn",
-		"price": 492,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "DetColumnMod"
 	},
 	{
 		"abr": "compositedesynthamidenonpolymérisé",
-		"price": 3,
+		"price": -10,
 		"category": "Synthamide",
 		"defname": "UncuredComposite"
 	},
 	{
 		"abr": "concussiveturret",
-		"price": 3100,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_ConcussiveTurret"
 	},
 	{
 		"abr": "consolederessources",
-		"price": 642,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "ResourceConsole"
 	},
 	{
 		"abr": "crossbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAS"
 	},
 	{
 		"abr": "crossflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBS"
 	},
 	{
 		"abr": "deathdangersign",
-		"price": 178,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerCB"
 	},
 	{
 		"abr": "diktatbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAD"
 	},
 	{
 		"abr": "diktatflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBD"
 	},
@@ -5738,13 +5738,13 @@
 	},
 	{
 		"abr": "empturret",
-		"price": 3433,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_STEMPTurret"
 	},
 	{
 		"abr": "energyturret",
-		"price": 2675,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_EnergyTurret"
 	},
@@ -5756,19 +5756,19 @@
 	},
 	{
 		"abr": "fishingboat",
-		"price": 1333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SPBoats_FishingBoat"
 	},
 	{
 		"abr": "forkliftwarningsign",
-		"price": 178,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerCF"
 	},
 	{
 		"abr": "frozencolumn",
-		"price": 833,
+		"price": -10,
 		"category": "Divers",
 		"defname": "IceColumnMod"
 	},
@@ -5780,43 +5780,43 @@
 	},
 	{
 		"abr": "galliabanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAB"
 	},
 	{
 		"abr": "galliaflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBB"
 	},
 	{
 		"abr": "gdibanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAO"
 	},
 	{
 		"abr": "gdiflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBO"
 	},
 	{
 		"abr": "groupeélectrogène",
-		"price": 1558,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "FuelPowerplant"
 	},
 	{
 		"abr": "heavyturret",
-		"price": 1917,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_HeavyTurret"
 	},
 	{
 		"abr": "imperialbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAC"
 	},
@@ -5828,292 +5828,382 @@
 	},
 	{
 		"abr": "lechbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAN"
 	},
 	{
 		"abr": "lechflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBN"
 	},
 	{
 		"abr": "lightcolumn",
-		"price": 170,
+		"price": -10,
 		"category": "Divers",
 		"defname": "LightColumnMod"
 	},
 	{
 		"abr": "lysbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAR"
 	},
 	{
 		"abr": "lysflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBR"
 	},
 	{
 		"abr": "medicalanimalbed",
-		"price": 358,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SUN_MedicalAnimalBed"
 	},
 	{
 		"abr": "nodbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAF"
 	},
 	{
 		"abr": "nodflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBF"
 	},
 	{
 		"abr": "obusdenapalm",
-		"price": 92,
+		"price": -10,
 		"category": "Obus de mortier",
 		"defname": "Shell_Napalm"
 	},
 	{
 		"abr": "orbitaltradecolumn",
-		"price": 358,
+		"price": -10,
 		"category": "Divers",
 		"defname": "OrbitalTradeColumnMod"
 	},
 	{
 		"abr": "paddlesteamer",
-		"price": 116667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SPBoats_PaddleSteamer"
 	},
 	{
 		"abr": "plastaciernondurcie",
-		"price": 3,
+		"price": -10,
 		"category": "Ressources brutes",
 		"defname": "UncuredPlasteel"
 	},
 	{
 		"abr": "pompeàchemfuel",
-		"price": 49,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "ChemfuelHopper"
 	},
 	{
 		"abr": "radiationwarningsign",
-		"price": 178,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerCC"
 	},
 	{
 		"abr": "raffineried'hyperfibre",
-		"price": 2075,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "HyperweaveRefiner"
 	},
 	{
 		"abr": "raffineurdenapalm",
-		"price": 758,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "NapalmRefiner"
 	},
 	{
 		"abr": "raffineurdeneutroamine",
-		"price": 1583,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "NeutroamineRefiner"
 	},
 	{
 		"abr": "raffineurdesynthamide",
-		"price": 1167,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "SynthamideRefiner"
 	},
 	{
 		"abr": "raffineurdesynthétique",
-		"price": 808,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "SynthreadRefiner"
 	},
 	{
 		"abr": "raffineurdesynthylène",
-		"price": 758,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "SynthyleneRefiner"
 	},
 	{
 		"abr": "redbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAG"
 	},
 	{
 		"abr": "redflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBG"
 	},
 	{
 		"abr": "royalbluebanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAH"
 	},
 	{
 		"abr": "royalblueflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBH"
 	},
 	{
 		"abr": "rusbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAP"
 	},
 	{
 		"abr": "rusflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBP"
 	},
 	{
 		"abr": "shredderturret",
-		"price": 725,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_ShredderTurret"
 	},
 	{
 		"abr": "siphondechemfuel",
-		"price": 49,
+		"price": -10,
 		"category": "Pétrole",
 		"defname": "ChemfuelSiphon"
 	},
 	{
 		"abr": "skybluebanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAI"
 	},
 	{
 		"abr": "skyblueflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBI"
 	},
 	{
 		"abr": "sniperturret",
-		"price": 1075,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_SniperTurret"
 	},
 	{
 		"abr": "standardturret",
-		"price": 900,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_StandardTurret"
 	},
 	{
 		"abr": "statesbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAQ"
 	},
 	{
 		"abr": "statesflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBQ"
 	},
 	{
 		"abr": "stool(linkable)",
-		"price": 54,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "StoolLinkable"
 	},
 	{
 		"abr": "stunningturret",
-		"price": 450,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_StunningTurret"
 	},
 	{
 		"abr": "suncolumn",
-		"price": 725,
+		"price": -10,
 		"category": "Divers",
 		"defname": "SunColumnMod"
 	},
 	{
 		"abr": "table(linkable)",
-		"price": 52,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "TableLinkable"
 	},
 	{
 		"abr": "tazingturret",
-		"price": 633,
+		"price": -10,
 		"category": "Sécurité",
 		"defname": "Turret_TazingTurret"
 	},
 	{
 		"abr": "templarbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAM"
 	},
 	{
 		"abr": "templarflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBM"
 	},
 	{
 		"abr": "tuna",
-		"price": 7,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawTuna"
 	},
 	{
 		"abr": "uncookedfinesoup",
-		"price": 400,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupFine"
 	},
 	{
 		"abr": "uncookedgourmetsoup",
-		"price": 625,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupGourmet"
 	},
 	{
 		"abr": "uncookedlavishsoup",
-		"price": 500,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupLavish"
 	},
 	{
 		"abr": "uncookedsimplesoup",
-		"price": 200,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupSimple"
 	},
 	{
 		"abr": "unscbanner",
-		"price": 215,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerAA"
 	},
 	{
 		"abr": "unscflag",
-		"price": 190,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "SadjuukHighBannerBA"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightRedVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightGreenVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightBlueVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightYellowVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightMagentaVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightCyanVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightRoseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightVioletVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightAzureVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightSpringGreenVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightChartreuseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightOrangeVII"
+	},
+	{
+		"abr": "uranium",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "uraniumfuelpod",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "ShuttleFuelPods"
 	}
 	],
-	"total": 1139
+	"total": 1154
 }
