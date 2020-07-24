@@ -932,7 +932,7 @@
 	},
 	{
 		"abr": "chemise",
-		"price": -10,
+		"price": 316,
 		"category": "Vêtements",
 		"defname": "Apparel_CollarShirt"
 	},
@@ -1244,7 +1244,7 @@
 	},
 	{
 		"abr": "couteau",
-		"price": 111,
+		"price": 161,
 		"category": "Armes de mêlée",
 		"defname": "MeleeWeapon_Knife"
 	},
@@ -4016,7 +4016,7 @@
 	},
 	{
 		"abr": "petitesculpture",
-		"price": 375,
+		"price": 525,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -4400,7 +4400,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 158,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -5198,7 +5198,7 @@
 	},
 	{
 		"abr": "tortue",
-		"price": 333,
+		"price": 383,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -5222,7 +5222,7 @@
 	},
 	{
 		"abr": "t-shirt",
-		"price": -10,
+		"price": 243,
 		"category": "Vêtements",
 		"defname": "Apparel_BasicShirt"
 	},
@@ -6203,7 +6203,97 @@
 		"price": -10,
 		"category": "Produits manufacturés",
 		"defname": "ShuttleFuelPods"
-	}
+	},
+	{
+		"abr": "urne",
+		"price": 120,
+		"category": "Meubles",
+		"defname": "Urn"
+	},
+	{
+		"abr": "vache",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Cow"
+	},
+	{
+		"abr": "valleyquail",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ACPValleyQuail"
+	},
+	{
+		"abr": "vanned'oléoduc",
+		"price": -10,
+		"category": "Pétrole",
+		"defname": "pipelineValve"
+	},
+	{
+		"abr": "vanometricfoodprocessor",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "AS_VanometricFoodProcessor"
+	},
+	{
+		"abr": "vanometricheatsink",
+		"price": -10,
+		"category": "Divers",
+		"defname": "AS_ArchotechHeatsink"
+	},
+	{
+		"abr": "veste",
+		"price": 325,
+		"category": "Vêtements",
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "vesteeneltex",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_PsyfocusVest"
+	},
+	{
+		"abr": "vesterenforcée",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "vesteroyale",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_VestRoyal"
+	},
+	{
+		"abr": "vianded'alpaga",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Alpaca"
+	},
+	{
+		"abr": "vianded'alphacastor",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Alphabeaver"
+	},
+	{
+		"abr": "vianded'amurleopard",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_ACPAmurLeopard"
+	},
+	{
+		"abr": "viandedeâne",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Donkey"
+	},
+	{
+		"abr": "viandedebison",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Bison"
+	},
 	],
-	"total": 1154
+	"total": 1146
 }
