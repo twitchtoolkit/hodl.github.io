@@ -14,6 +14,7 @@
     <script type="text/javascript">
         const itemListURL = "https://raw.githubusercontent.com/twitchtoolkit/item-list/master/StoreItems.json";
         const eventListURL = "https://raw.githubusercontent.com/twitchtoolkit/item-list/master/StoreEvents.json";
+		const traitListURL = "https://raw.githubusercontent.com/twitchtoolkit/item-list/master/Traitlist.json";
     </script>
 </head>
 
@@ -49,7 +50,7 @@
                     <li class="list-group-item">!modsettings - gives user info on how many coins are being earned and global settings</li>
                     <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username 100 - give another viewer your coins</li>
                     <li class="list-group-item">!toolkitcmds - shows all available commands to the user, this does not translate by default so it can be universally recognized.</li>
-                    <li class="list-group-item">!buy ticket - join the viewer name queue</li>
+                    <li class="list-group-item">!joinqueue - join the viewer name queue</li>
                     <li class="list-group-item">!mypawnstory - view information about your pawns backstory</li>
                     <li class="list-group-item">!mypawnskills - view information about your pawns skills</li>
                 </ul>
@@ -68,6 +69,9 @@
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
                                     </button>
+									<button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+                                        Traits
+									</button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-2 col-form-label" for="">Price Between:</label>
@@ -93,7 +97,7 @@
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort
+                                    Sort by Name
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
                                     Sort by Price
@@ -242,7 +246,24 @@
 
             eventList = new List('events', options, eventData);
         });
-
+		
+		let traitList = null;
+		$.getJSON(traitListURL, function(data) {
+			var options = {
+				valueNames: ['name', 'description', 'addPrice', 'removePrice'],
+				item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
+			};
+			
+			var traitData = [];
+			$.each(data.traits, function(index, value) {
+				if (value["addPrice"] > 0) {
+					traitData.push(value);
+				}
+			});
+			
+			traitList = new List('traits', options, traitData);
+		});
+		
         $("#item-price-min").keyup(function() {
             updateItemFilter();
         });
@@ -275,6 +296,16 @@
                 return allow;
             });
         }
+		traitList.filter(function(item) {
+                var allow = true;
+                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
+                    allow = false;
+                }
+                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
+                    allow = false;
+                }
+                return allow;
+            });
     </script>
     <script type="text/javascript">
         var tabs = angular.module('tabs', [])
