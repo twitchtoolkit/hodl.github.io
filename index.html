@@ -169,15 +169,10 @@
             <p class="float-right">
                 <a href="#">Back to top</a>
             </p>
-            <p>Album example is © Bootstrap, but please download and customize it for yourself!</p>
-            <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+            <p>Go fast, Eat ass.</p>
         </div>
     </footer>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <!-- some shit -->
     <style>
         .sort:after {
             display: inline-block;
@@ -215,81 +210,7 @@
             top: -4px;
             right: -5px;
         }
-    </style>
-    <script type="text/javascript">
-        let itemList = null;
-        $.getJSON(itemListURL, function(data) {
-            var options = {
-                valueNames: ['abr', 'price', 'category'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td></tr>'
-            };
-
-            var itemData = [];
-            $.each(data.items, function(index, value) {
-                if (value["price"] > 0) {
-                    itemData.push(value);
-                }
-            });
-
-            itemList = new List('items', options, itemData);
-        });
-
-        let eventList = null;
-        $.getJSON(eventListURL, function(data) {
-            var options = {
-                valueNames: ['abr', 'price', 'karmatype'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
-            };
-
-            var eventData = [];
-            $.each(data.incitems, function(index, value) {
-                if (value["price"] > 0) {
-                    eventData.push(value);
-                }
-            });
-
-            eventList = new List('events', options, eventData);
-        });
-
-        $("#item-price-min").keyup(function() {
-            updateItemFilter();
-        });
-
-        $("#item-price-max").keyup(function() {
-            updateItemFilter();
-        });
-
-        function updateItemFilter() {
-            var minPrice = $("#item-price-min").val();
-            var maxPrice = $("#item-price-max").val();
-            itemList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
-	    eventList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
-        }
-    </script>
-    <script type="text/javascript">
-        var tabs = angular.module('tabs', [])
-            .controller('tabCtrl', function($scope) {
-                $scope.selected = "1";
-            });
-    </script>
+        </style>
 </body>
 
 </html>
