@@ -36,8 +36,9 @@
             <div class="container">
                 <h1 class="display-3">TwitchToolkit</h1>
                 <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat votes, awards viewers coins for watching, and those coins can be spent on items/events in game.</p>
-                <button type="button" class="collapsible">Toolkit Commands</button>
-                <div class="content">
+                <button type="button" data-toggle="collapse" data-target="#list1">Toolkit Commands</button>
+                <button type="button" data-toggle="collapse" data-target="#list2">Pawn Commands</button>
+                <div id="list1" class="collapse">
                     <ul class="list-group">
                     <li class="list-group-item">!bal - check balance and karma rate</li>
                     <li class="list-group-item">!buy - Syntax: !buy beer 6 - purchase an item or event</li>
@@ -48,8 +49,16 @@
                     <li class="list-group-item">!modsettings - gives user info on how many coins are being earned and global settings</li>
                     <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username 100 - give another viewer your coins</li>
                     <li class="list-group-item">!joinqueue - join the viewer name queue</li>
+                    </ul>
+                </div>
+                <div id="list2" class="collapse">
+                    <ul class="list-group">
                     <li class="list-group-item">!mypawnstory - view information about your pawns backstory</li>
                     <li class="list-group-item">!mypawnskills - view information about your pawns skills</li>
+                    <li class="list-group-item">!mypawngear - Lists all weapons and apparel</li>
+                    <li class="list-group-item">!mypawnhealth - Lists a health summary</li>
+                    <li class="list-group-item">!mypawnhealth [system] - Detailed information about a pawns health. Ex. !mypawnhealth sight</li>
+                    <li class="list-group-item">!mypawnbody - Lists all damage or replaced body parts</li>
                     </ul>
                 </div>
             </div>
