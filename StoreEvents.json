@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -32,7 +32,7 @@
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 250,
+		"price": 450,
 		"karmatype": "Neutral"
 	},
 	{
@@ -106,11 +106,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -133,11 +128,6 @@
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "inspiration",
-		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -296,19 +286,19 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
-		"karmatype": "Good"
+		"price": 2000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
-		"karmatype": "Good"
+		"price": 1500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -326,9 +316,19 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
 	"total": 66
