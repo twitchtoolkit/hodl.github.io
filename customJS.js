@@ -29,7 +29,7 @@ $.getJSON(eventListURL, function(data) {
     $.each(data.incitems, function(index, value) {
         //event-blacklist//
         var evBlacklist = ['pawn', 'trait', 'surgery', 'replacetrait', 'removetrait', 'backpack'];
-        if (evBlacklist.includes(value["abr"])){
+        if (evBlacklist.indexOf(value["abr"]) != -1){
             return;
         }
 
