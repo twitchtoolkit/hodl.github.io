@@ -1,4 +1,5 @@
 const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/StoreItems.json";
+<<<<<<< HEAD
 const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/StoreIncidents.json";
 
 let itemList = null;
@@ -80,3 +81,6 @@ var tabs = angular.module('tabs', [])
     .controller('tabCtrl', function($scope) {
         $scope.selected = "1";
     });
+=======
+const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/StoreIncidents.json";
+>>>>>>> parent of 23d0f3b (Splitting JS from html)
