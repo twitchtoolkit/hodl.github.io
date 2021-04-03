@@ -27,6 +27,11 @@ $.getJSON(eventListURL, function(data) {
 
     var eventData = [];
     $.each(data.incitems, function(index, value) {
+        //blacklist//
+        if (value["abr"] == ('pawn' || 'trait' || 'surgery' || 'replacetrait' || 'removetrait' || 'backpack')){
+            return;
+        }
+
         if (value["price"] > 0) {
             eventData.push(value);
         }
