@@ -101,6 +101,12 @@
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
                                     </button>
+                                    <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+                                        Traits
+                                    </button>
+                                    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
+                                        Races
+                                    </button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-2 col-form-label" for="">Price Between:</label>
@@ -169,6 +175,63 @@
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
                                     <th scope="col" class="sort" data-sort="karmatype">Karma</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" ng-show='selected == 3'>
+                    <div class="col-md-12">
+                        <div id="traits">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="name">
+                                    Sort
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="addPrice">
+                                    Sort by Price
+                                </button>
+                            </p>
+                            <table class="table traits">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="name">Name</th>
+                                    <th scope="col" class="sort" data-sort="addPrice">Add Price</th>
+                                    <th scope="col" class="sort" data-sort="removePrice">Remove Price</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" ng-show='selected == 4'>
+                    <div class="col-md-12">
+                        <div id="races">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="defName">
+                                    Sort
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="price">
+                                    Sort by Price
+                                </button>
+                            </p>
+                            <table class="table traits">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="defName">Name</th>
+                                    <th scope="col" class="sort" data-sort="price">Price</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
