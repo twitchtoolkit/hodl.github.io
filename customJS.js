@@ -27,6 +27,14 @@ $.getJSON(eventListURL, function(data) {
 
     var eventData = [];
     $.each(data.incitems, function(index, value) {
+<<<<<<< HEAD
+=======
+        //blacklist//
+        if (value["abr"] == ('pawn' || 'trait' || 'surgery' || 'replacetrait' || 'removetrait' || 'backpack')){
+            return;
+        }
+
+>>>>>>> parent of e6ba579 (Update customJS.js)
         if (value["price"] > 0) {
             eventData.push(value);
         }
